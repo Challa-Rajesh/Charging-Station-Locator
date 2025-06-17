@@ -6,13 +6,13 @@ A web application that displays and manages Electric Vehicle (EV) charging stati
 
 ## 🌐 Live Demo
 
-> Coming soon: [https://your-github-username.github.io/Charging-Station-Locator](#)
+> URL for live Application: [https://challa-rajesh.github.io/Charging-Station-Locator/](#)
 
 ---
 
 ## 📸 Screenshot
 
-![App Screenshot](./screenshot.png)
+![App Screenshot](./UI View of the application.png)
 
 ---
 
@@ -52,4 +52,13 @@ A web application that displays and manages Electric Vehicle (EV) charging stati
 ```bash
 git clone https://github.com/Challa-Rajesh/Charging-Station-Locator.git
 cd Charging-Station-Locator
+
+🔧 Install Dependencies
+npm install
+
+🚀 Deploy the App:
+npm run dev
+
+for the backend code, go the the github and download the backend server.
+then run the deployment server then load the frontend Ui.
 
