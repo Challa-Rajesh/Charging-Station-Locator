@@ -23,9 +23,9 @@ A web application that displays and manages Electric Vehicle (EV) charging stati
 - 🗺️ **Map View** to visually explore charging station locations.
 - 🧾 **Card View** for browsing station details in a list/grid format.
 - 🎯 **Smart Filters**:
-  - Status (Available / Busy)
-  - Power Output (e.g. 22kW, 50kW)
-  - Connector Type (e.g. CCS, Type2)
+  - Status (Active / Inactive) 
+  - Power Output (e.g. 20kW, 50kW)
+  - Connector Type (e.g. C type, A type)
 
 ### 🛠 Admin Tools
 - ➕ **Add Station**: Easily add new charging locations with relevant details.
