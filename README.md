@@ -12,7 +12,8 @@ A web application that displays and manages Electric Vehicle (EV) charging stati
 
 ## 📸 Screenshot
 
-![App Screenshot](./UI View of the application.png)
+![App Screenshot](https://github.com/Challa-Rajesh/Charging-Station-Locator/blob/master/UI%20View%20of%20the%20application.png?raw=true)
+
 
 ---
 
