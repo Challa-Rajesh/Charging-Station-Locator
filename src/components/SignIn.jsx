@@ -60,7 +60,7 @@ function SignIn() {
       </div>
       <br/>
       <div>
-        <p>try these username and password, in case needed to signin</p>
+        <p>use these username and password, in case needed to signin</p>
         <p>email : rajesh123@gmail.com</p>
         <p>password : 1234</p>
       </div>
