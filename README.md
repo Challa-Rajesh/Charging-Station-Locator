@@ -6,7 +6,7 @@ A web application that displays and manages Electric Vehicle (EV) charging stati
 
 ## 🌐 Live Demo
 
-> URL for live Application: [https://challa-rajesh.github.io/Charging-Station-Locator/](#)
+**Live Demo**: [Charging Station Locator](https://challa-rajesh.github.io/Charging-Station-Locator/)
 
 ---
 
