@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import axios from "axios";
 import { useNavigate } from "react-router-dom";
 import "./styles/SignUp.css";
+const url = "https://evoltsoftserver-production.up.railway.app";
 
 
 function SignUp() {
@@ -22,7 +23,7 @@ function SignUp() {
     }
 
     try {
-      const response = await axios.post("http://localhost:3000/signup", { name, email, password });
+      const response = await axios.post(`${url}/signup`, { name, email, password });
       setMessage(response.data.message);
       setError("");
     } catch (err) {
