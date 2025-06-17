@@ -58,6 +58,12 @@ function SignIn() {
       <div className="signinmessage">
         {error && <p style={{ color: "red" }}>{error}</p>}
       </div>
+      <br/>
+      <div>
+        <p>try these username and password, in case needed to signin</p>
+        <p>email : rajesh123@gmail.com</p>
+        <p>password : 1234</p>
+      </div>
     </div>
   );
 }
